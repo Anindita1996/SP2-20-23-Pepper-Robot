@@ -1,0 +1,9 @@
+The Humanoid robot “Pepper” will be communicating with the patients and visitor at UniSA Health and Medical Clinic. It will also provide a tour around the clinic to the visitors. It will increase the interaction between the visitor and the clinic. 
+
+A script from Murray Bridge High School was provided this project team to program Pepper Robot to deliver speech which is written in the script. Along with this some additional features have been offered by the team of this project which has been approved as system requirements by the clients. The requirements are listed below:
+•	Program Pepper robot to take a tutorial session based on the MBHS script.
+•	Facilitate program by enabling Pepper robot to host a quiz session based on the tutorial.
+•	Enable Pepper robot to run a physical exercise session for student as a digital trainer.
+
+UniSA has worked for advancement and innovation in various sectors through many projects. Through this project UniSA Health and Medical Clinic will be able to utilise Pepper’s ability to research on advancement of psychology treatment and education system. The initiation of script based digital tutorial session will increase the students’ attendance rate at school as robot will help to attract the young learners more than usual.
+Moreover, this project outcome will encourage UniSA to continue upgrading Pepper’s status through more innovative projects in future. And thus, technical infrastructure will be benefitted globally.
